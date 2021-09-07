@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yagmurcmbl
 - 👀 I’m interested in frontend develpoment and design websites
 - 🌱 I’m currently learning html, css, java
-- 📫 How to reach me ig: @yagmurcmbl
+- 📫 How to reach me gmail:yagmurcmbll@gmail.com
 
 <!---
 yagmurcmbl/yagmurcmbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
